@@ -1,1 +1,3 @@
-# confession
+# confession 
+only for one person 
+
